@@ -7,7 +7,6 @@ Full-stack Developer
 Possessing a solid understanding of web development concept and a strong desire to learn and grow in the field. I've been learning to code for 1 year, after switching careers. I started with HTML, but have really found passion and continued on with CSS, JavaScript, ReactJS, NodeJS and MongoDB.
 
 * 🌍  I'm based in Skopje
-* 🧠  I'm learning NextJS
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
